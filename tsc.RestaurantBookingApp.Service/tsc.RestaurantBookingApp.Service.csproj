@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\tsc.RestaurantBookingApp.Core\tsc.RestaurantBookingApp.Core.csproj" />
+    <ProjectReference Include="..\tsc.RestaurantBookingApp.Data\tsc.RestaurantBookingApp.Data.csproj" />
+  </ItemGroup>
+
+</Project>

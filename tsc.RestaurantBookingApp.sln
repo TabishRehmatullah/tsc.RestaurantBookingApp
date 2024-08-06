@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tsc.RestaurantBookingApp.API", "tsc.RestaurantBookingApp.API\tsc.RestaurantBookingApp.API.csproj", "{A5CFC513-4A5A-4C2E-9B5B-35CC04E588AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tsc.RestaurantBookingApp.AppHost", "tsc.RestaurantBookingApp.AppHost\tsc.RestaurantBookingApp.AppHost.csproj", "{CE74A800-D0E4-46A6-8C3A-0F5E594DDA68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tsc.RestaurantBookingApp.ServiceDefaults", "tsc.RestaurantBookingApp.ServiceDefaults\tsc.RestaurantBookingApp.ServiceDefaults.csproj", "{D4B72310-442D-4E2A-AC0C-669C550A4631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tsc.RestaurantBookingApp.Core", "tsc.RestaurantBookingApp.Core\tsc.RestaurantBookingApp.Core.csproj", "{A96304C6-A78F-49ED-8BB1-8E08EC06A8EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tsc.RestaurantBookingApp.Data", "tsc.RestaurantBookingApp.Data\tsc.RestaurantBookingApp.Data.csproj", "{D6966419-5632-40CD-B49F-DA2AA0B2B35C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tsc.RestaurantBookingApp.Service", "tsc.RestaurantBookingApp.Service\tsc.RestaurantBookingApp.Service.csproj", "{5A8374F7-99C9-4C96-930C-E56AA2855CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5CFC513-4A5A-4C2E-9B5B-35CC04E588AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CFC513-4A5A-4C2E-9B5B-35CC04E588AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CFC513-4A5A-4C2E-9B5B-35CC04E588AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CFC513-4A5A-4C2E-9B5B-35CC04E588AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE74A800-D0E4-46A6-8C3A-0F5E594DDA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE74A800-D0E4-46A6-8C3A-0F5E594DDA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE74A800-D0E4-46A6-8C3A-0F5E594DDA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE74A800-D0E4-46A6-8C3A-0F5E594DDA68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B72310-442D-4E2A-AC0C-669C550A4631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B72310-442D-4E2A-AC0C-669C550A4631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B72310-442D-4E2A-AC0C-669C550A4631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B72310-442D-4E2A-AC0C-669C550A4631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96304C6-A78F-49ED-8BB1-8E08EC06A8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96304C6-A78F-49ED-8BB1-8E08EC06A8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96304C6-A78F-49ED-8BB1-8E08EC06A8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96304C6-A78F-49ED-8BB1-8E08EC06A8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6966419-5632-40CD-B49F-DA2AA0B2B35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6966419-5632-40CD-B49F-DA2AA0B2B35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6966419-5632-40CD-B49F-DA2AA0B2B35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6966419-5632-40CD-B49F-DA2AA0B2B35C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8374F7-99C9-4C96-930C-E56AA2855CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8374F7-99C9-4C96-930C-E56AA2855CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8374F7-99C9-4C96-930C-E56AA2855CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8374F7-99C9-4C96-930C-E56AA2855CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22906467-14ED-44F2-892F-C4C2AF1AA9F9}
+	EndGlobalSection
+EndGlobal
